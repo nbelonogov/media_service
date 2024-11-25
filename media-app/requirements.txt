@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+psycopg2
+aiohttp
+aiofiles
+starlette
+python-dotenv
+python-multipart
