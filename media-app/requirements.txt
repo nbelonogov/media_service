@@ -8,3 +8,4 @@ aiofiles
 starlette
 python-dotenv
 python-multipart
+apscheduler
